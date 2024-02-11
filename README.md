@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay111999&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay111999" /> </p>
 
-- 🔭 I’m currently working at [Pod.ai](https://www.pod.ai/)
+- 🔭 I’m currently working at [Flipkart](https://www.flipkart.com/)
+- I used to work at [Pod.ai](https://www.pod.ai/)
 
 - 🌱 I’m currently learning **System Design**
 
